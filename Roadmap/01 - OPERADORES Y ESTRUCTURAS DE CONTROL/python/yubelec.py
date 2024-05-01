@@ -129,7 +129,7 @@ while i <=7:
 try:
     print (10/0)
 except:
-    print("Error")
+    print("Error Error")
 finally:
     print("Fin")
     
